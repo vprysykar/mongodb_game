@@ -1,7 +1,7 @@
 # mongodb_game
 
-mongo folder
+mongo folder\n
 creating database for futher work
 
-server folder
+server folder\n
 API for getting users, game, stats info
